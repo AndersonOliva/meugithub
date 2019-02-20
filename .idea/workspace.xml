@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9de6066b-aed1-4ee6-b589-c777f14f28b4" name="Default Changelist" comment="" />
+    <list default="true" id="9de6066b-aed1-4ee6-b589-c777f14f28b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/suporte/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/suporte/Screenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/informacoesUsuarioTestData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/informacoesUsuarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/informacoesUsuarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/informacoesUsuarioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/informacoesUsuarioTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="533">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -24,12 +33,43 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/informacoesUsuarioTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="61" column="46" lean-forward="true" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+            <state relative-caret-position="-236">
+              <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1374#1375#0" expanded="true" />
-                <element signature="e#1398#1399#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/informacoesUsuarioTestData.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/suporte/Generator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/suporte/Screenshot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,11 +84,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/test/java/Screenshot.java" />
+        <option value="$PROJECT_DIR$/src/test/java/suporte/Generator.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/tests/informacoesUsuarioTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/informacoesUsuarioTestData.csv" />
       </list>
     </option>
   </component>
@@ -70,18 +116,66 @@
     <option name="width" value="1340" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webdriverJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriver-Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriver-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriver-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriver-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriver-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="suporte" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriver-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webdriverJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550542937222" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550630012991" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.informacoesUsuarioTest.removerUmContatoDeUsuario">
+  <component name="RunManager" selected="JUnit.informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario">
     <configuration name="informacoesUsuarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="webdriver-Java" />
       <extension name="coverage">
@@ -145,8 +239,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.informacoesUsuarioTest.removerUmContatoDeUsuario" />
         <item itemvalue="JUnit.informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" />
+        <item itemvalue="JUnit.informacoesUsuarioTest.removerUmContatoDeUsuario" />
         <item itemvalue="JUnit.informacoesUsuarioTest" />
       </list>
     </recent_temporary>
@@ -165,18 +259,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="informacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.02.13 at 23h 37m 03s.xml">
-      <configuration name="informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="informacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.02.18 at 22h 01m 34s.xml">
-      <configuration name="informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="informacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.02.18 at 22h 10m 11s.xml">
-      <configuration name="informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="informacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.02.18 at 22h 12m 18s.xml">
-      <configuration name="informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="informacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.02.18 at 22h 25m 05s.xml">
       <configuration name="informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
     </history-entry>
@@ -195,11 +277,52 @@
     <history-entry file="informacoesUsuarioTest_removerUmContatoDeUsuario - 2019.02.18 at 23h 07m 23s.xml">
       <configuration name="informacoesUsuarioTest.removerUmContatoDeUsuario" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="informacoesUsuarioTest_removerUmContatoDeUsuario - 2019.02.19 at 22h 50m 16s.xml">
+      <configuration name="informacoesUsuarioTest.removerUmContatoDeUsuario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="informacoesUsuarioTest_removerUmContatoDeUsuario - 2019.02.19 at 22h 52m 02s.xml">
+      <configuration name="informacoesUsuarioTest.removerUmContatoDeUsuario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="informacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.02.19 at 23h 23m 58s.xml">
+      <configuration name="informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="informacoesUsuarioTest_testAdicionarUmaInformacaoAdicionalDoUsuario - 2019.02.19 at 23h 26m 02s.xml">
+      <configuration name="informacoesUsuarioTest.testAdicionarUmaInformacaoAdicionalDoUsuario" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19832827" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1899696" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1899696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -225,55 +348,52 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.33890578" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32843137" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.jar!/org/openqa/selenium/chrome/ChromeDriverService.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/suporte/Screenshot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/suporte/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="533">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/informacoesUsuarioTestData.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/informacoesUsuarioTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="61" column="46" lean-forward="true" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
+        <state relative-caret-position="-236">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1374#1375#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
           </folding>
         </state>
       </provider>
