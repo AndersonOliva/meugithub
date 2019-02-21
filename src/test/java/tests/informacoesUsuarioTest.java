@@ -18,6 +18,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import suporte.Generator;
 import suporte.Screenshot;
+import suporte.Web;
 
 import javax.print.attribute.standard.MediaSize;
 import java.util.concurrent.TimeUnit;
@@ -32,12 +33,7 @@ public class informacoesUsuarioTest {
 
     @Before
     public void setup(){
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\OLIVA\\Desktop\\drivers\\chromedriver.exe");
-        navegador = new ChromeDriver();
-        navegador.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
-        navegador.get("http://www.juliodelima.com.br/taskit");
-
-        navegador.findElement(By.linkText("Sign in")).click();
+        navegador = Web.createrChrome();
 
         WebElement formularioSignInBox = navegador.findElement(By.id("signinbox"));
         formularioSignInBox.findElement(By.name("login")).sendKeys("Julio0001");
