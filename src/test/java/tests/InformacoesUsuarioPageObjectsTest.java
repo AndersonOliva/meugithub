@@ -19,7 +19,7 @@ public class InformacoesUsuarioPageObjectsTest {
 
     @Before
     public void setUp(){
-        navegador = Web.createrChrome();
+        navegador = Web.createBrowserStack();
     }
 
     @Test
@@ -41,11 +41,10 @@ public class InformacoesUsuarioPageObjectsTest {
 
         assertEquals(mensagemEsperada, textoToast);
 
-
         }
     @After
     public void tearDown(){
-//        navegador.quit();
+        navegador.quit();
         }
     }
 
